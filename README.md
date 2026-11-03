@@ -51,6 +51,18 @@ Replaces the gym owner's notebook. Member records, automatic monthly fee dues, p
 
 ---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulx-dev/rahulx-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulx-dev/rahulx-dev/output/github-contribution-grid-snake.svg">
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/rahulx-dev/rahulx-dev/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+---
+
 ## 🔗 Connect
 
 - 🌐 Portfolio — [luckyxdev.me](https://luckyxdev.me)
